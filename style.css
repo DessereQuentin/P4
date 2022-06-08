@@ -7,6 +7,27 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.newp1{
+    color:#484848!important;
+margin-left:50px;
+} 
+
+.newp2{
+    color:#484848!important;
+    font-style: italic;
+    font-size:20px!important;
+    margin-left:200px;
+    margin-right:200px;
+}
+
+.motpdg p{
+    font-size:20px;
+    margin-left:200px;
+    margin-right:200px;
+    text-align:center;
+    color:grey!important;
+
+}
 a,
 button {
     transition: all .3s ease-in-out;
